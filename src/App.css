@@ -1,0 +1,114 @@
+
+.bg-light {
+  background-color: black !important;
+}
+.logo{
+  width:35%;
+}
+.nav-link{
+  color:aliceblue !important;
+}
+.navbar-toggler-icon{
+  color:aliceblue !important;
+}
+
+
+.label-color{
+  color:rgb(34, 116, 188)
+}
+.card{
+  border: none;
+}
+
+.transparent-card {
+  background: rgba(255, 255, 255, 0.1); 
+  border-radius: 10px;
+  padding: 20px;
+  backdrop-filter: blur(10px); 
+  -webkit-backdrop-filter: blur(10px); 
+  width: 100%;
+  border: none;
+
+}
+
+.transparent-card .card-body {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 20px;
+  backdrop-filter: blur(5px); 
+  -webkit-backdrop-filter: blur(5px); 
+}
+
+.transparent-card .row {
+  margin: 0;
+}
+
+.transparent-card .table {
+  margin-bottom: 0;
+}
+
+.transparent-card .table th,
+.transparent-card .table td {
+  border: none;
+}
+
+.transparent-card .table th {
+  width: 120px; 
+}
+
+.transparent-card .table th,
+.transparent-card .table td {
+  padding: 5px;
+}
+
+.transparent-card .table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.1); 
+}
+
+.recent-item {
+  cursor: pointer;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s ease;
+}
+
+.recent-item:hover {
+  background-color: #e0e0e0;
+}
+.resentcontainer {
+  background-color: rgba(255, 255, 255, 0.5); 
+  backdrop-filter: blur(10px); 
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.recent_section {
+  padding: 20px;
+}
+
+.recent {
+  margin-top: 20px;
+}
+
+
+.list-unstyled li {
+  padding: 10px 0;
+}
+
+
+.container h3 {
+  color: #333;
+}
+.list-unstyled li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+
+
